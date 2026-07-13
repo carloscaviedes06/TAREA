@@ -1,1 +1,1 @@
-Esta es la versión de Integrante A
+Texto de prueba A
