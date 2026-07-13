@@ -16,4 +16,6 @@ Para simular el conflicto, dos integrantes modificaron la primera línea del arc
 * **Cómo se resolvió:** Se utilizó la herramienta web de resolución de conflictos de GitHub, analizando el código en equipo, removiendo las etiquetas de conflicto (`<<<<<<<`, `=======`) y consolidando una versión final unificada.
 
 <img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/42087a81-a1bf-48ca-bdac-33d6cbec1a07" />
-
+<img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/193f211f-b565-4f60-90e8-8193e29ab2bb" />
+<img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/d0e7d4d7-85f7-4713-b3b9-f957005e09a9" />
+<img width="886" height="500" alt="image" src="https://github.com/user-attachments/assets/e6532b33-6636-4b14-874b-063373068934" />
